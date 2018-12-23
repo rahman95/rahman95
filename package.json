@@ -1,14 +1,14 @@
 {
-  "name": "bitandbang",
-  "version": "1.3.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "rahman95",
+  "version": "1.0.0",
+  "description": "A personal card for Rahman Younus (@rahman95)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "rahman95": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/rahman95/rahman95.git"
   },
   "scripts": {
     "prepublish": "npm run build",
@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Rahman Younus <rahman_95@live.co.uk> (http://ryounus.co.uk)",
   "license": "MIT",
   "files": [
     "bin/card.js",
