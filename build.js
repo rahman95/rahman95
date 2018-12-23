@@ -13,50 +13,59 @@ const options = {
   borderStyle: 'round'
 }
 
-// Text + chalk definitions
-const data = {
-  name: chalk.white('               Tierney Cyren'),
-  handle: chalk.white('bitandbang'),
-  work: chalk.white('Senior Cloud Developer Advocate at Microsoft'),
-  opensource: chalk.white('Node.js Community Committee ') + chalk.green('⬢'),
-  twitter: chalk.gray('https://twitter.com/') + chalk.cyan('bitandbang'),
-  npm: chalk.gray('https://npmjs.com/') + chalk.red('~bnb'),
-  github: chalk.gray('https://github.com/') + chalk.green('bnb'),
-  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('bitandbang'),
-  web: chalk.cyan('https://bnb.im'),
-  npx: chalk.red('npx') + ' ' + chalk.white('bitandbang'),
-  labelWork: chalk.white.bold('       Work:'),
-  labelOpenSource: chalk.white.bold('Open Source:'),
-  labelTwitter: chalk.white.bold('    Twitter:'),
-  labelnpm: chalk.white.bold('        npm:'),
-  labelGitHub: chalk.white.bold('     GitHub:'),
-  labelLinkedIn: chalk.white.bold('   LinkedIn:'),
-  labelWeb: chalk.white.bold('        Web:'),
-  labelCard: chalk.white.bold('       Card:')
+const url = {
+  twitter: 'https://twitter.com/',
+  github: 'https://github.com/',
+  linkedin: 'https://linkedin.com/in/',
+  web: 'http://ryounus.co.uk/',
 }
 
-// Actual strings we're going to output
+// Text + chalk definitions
+const data = {
+  heading: {
+    value: `${chalk.white('Rahman Younus')} / ${chalk.white('rahman95')}`,
+  },
+  work: {
+    label: chalk.white.bold('Currently:'),
+    value: chalk.white('Developer at Industrious (@industrious-mouse)'),
+  },
+  twitter: {
+    label: chalk.white.bold('Twitter:'),
+    value: `${chalk.gray(`${url.twitter}`)}${chalk.cyan('rahman_younus')}`,
+  },
+  github: {
+    label: chalk.white.bold('GitHub:'),
+    value: `${chalk.gray(`${url.github}`)}${chalk.magenta('rahman95')}`,
+  },
+  linkedin: {
+    label: chalk.white.bold('LinkedIn:'),
+    value: `${chalk.gray(`${url.linkedin}`)}${chalk.blue('rahman_younus')}`,
+  },
+  web: {
+    label: chalk.white.bold('Web:'),
+    value: chalk.green(`${url.web}`),
+  },
+  npx: {
+    label: chalk.white.bold('Card:'),
+    value: `${chalk.red('npx')} ${chalk.white('rahman95')}`,
+  },
+}
+
+const headingLine = `${data.heading.value}`
+const workLine = `${data.work.label} ${data.work.value}`
+const twitterLine = `${data.twitter.label} ${data.twitter.value}`
+const githubLine = `${data.github.label} ${data.github.value}`
+const linkedinLine = `${data.linkedin.label} ${data.linkedin.value}`
+const webLine = `${data.web.label} ${data.web.value}`
+const cardLine = `${data.npx.label} ${data.npx.value}`
 const newline = '\n'
-const heading = `${data.name} / ${data.handle}`
-const working = `${data.labelWork}  ${data.work}`
-const opensourcing = `${data.labelOpenSource}  ${data.opensource}`
-const twittering = `${data.labelTwitter}  ${data.twitter}`
-const npming = `${data.labelnpm}  ${data.npm}`
-const githubing = `${data.labelGitHub}  ${data.github}`
-const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
-const webing = `${data.labelWeb}  ${data.web}`
-const carding = `${data.labelCard}  ${data.npx}`
 
-// Put all our output together into a single variable so we can use boxen effectively
-const output = heading + // data.name + data.handle
-               newline + newline + // Add one whole blank line
-               working + newline + // data.labelWork + data.work
-               opensourcing + newline + newline + // data.labelOpenSource + data.opensource
-               twittering + newline + // data.labelTwitter + data.twitter
-               npming + newline + // data.labelnpm + data.npm
-               githubing + newline + // data.labelGitHub + data.github
-               linkedining + newline + // data.labelLinkedIn + data.linkedin
-               webing + newline + newline + // data.labelWeb + data.web
-               carding // data.labelCard + data.npx
+const output = headingLine + newline + newline +
+  workLine + newline + newline +
+  twitterLine + newline +
+  githubLine + newline +
+  linkedinLine + newline +
+  webLine + newline + newline +
+  cardLine
 
-fs.writeFileSync(path.join(__dirname, 'bin/output'), chalk.green(boxen(output, options)))
+fs.writeFileSync(path.join(__dirname, 'bin/output'), chalk.yellow(boxen(output, options)))
