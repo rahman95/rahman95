@@ -7,6 +7,6 @@ npx rahman95
 ```
 
 ## Output
-<img src="https://user-images.githubusercontent.com/15032635/50388092-2b589500-0704-11e9-87e4-03aed35ae047.png"
+<img src="https://user-images.githubusercontent.com/15032635/58763639-44882c00-8555-11e9-9db6-78cf46fcf196.png"
      alt="Preview"
      width="75%" />
