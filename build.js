@@ -17,7 +17,7 @@ const url = {
   twitter: 'https://twitter.com/',
   github: 'https://github.com/',
   linkedin: 'https://linkedin.com/in/',
-  web: 'http://ryounus.co.uk/',
+  web: 'https://ryounus.co.uk/',
 }
 
 // Text + chalk definitions
@@ -27,23 +27,23 @@ const data = {
   },
   work: {
     label: chalk.white.bold('Currently:'),
-    value: chalk.white('Developer at Industrious (@industrious-mouse)'),
+    value: chalk.white('Software Developer at Uttily (@uttily)'),
   },
   twitter: {
     label: chalk.white.bold('Twitter:'),
-    value: `${chalk.gray(`${url.twitter}`)}${chalk.cyan('rahman_younus')}`,
+    value: chalk.cyan(`${url.twitter}rahman_younus`),
   },
   github: {
     label: chalk.white.bold('GitHub:'),
-    value: `${chalk.gray(`${url.github}`)}${chalk.magenta('rahman95')}`,
+    value: chalk.magenta(`${url.github}rahman95`),
   },
   linkedin: {
     label: chalk.white.bold('LinkedIn:'),
-    value: `${chalk.gray(`${url.linkedin}`)}${chalk.blue('rahman_younus')}`,
+    value: chalk.blue(`${url.linkedin}rahman_younus`),
   },
   web: {
     label: chalk.white.bold('Web:'),
-    value: chalk.green(`${url.web}`),
+    value: chalk.green(url.web),
   },
   npx: {
     label: chalk.white.bold('Card:'),
