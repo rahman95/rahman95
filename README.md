@@ -7,4 +7,6 @@ npx rahman95
 ```
 
 ## Output
-<img src="assets/preview.png" alt="Preview" width="75%" />
+<p align="center"> 
+    <img src="assets/carbon.png" alt="Preview">
+</p>
