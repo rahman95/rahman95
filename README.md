@@ -11,12 +11,6 @@ I build open-source software in my free time and occasionally blog on my experie
 - 🇩🇪 Born in Germany
 - ✨ Actively tinkering with Go and AWS
 
-## Get in touch
-
-[<img align="left" alt="albertobonacina.com" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gatsby.svg" />][website]
-[<img align="left" alt="Polilluminato | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Alberto Bonacina | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][linkedin]
-
 ## Latest Blog Posts
 
 - Lorem ipsum 1
@@ -25,7 +19,11 @@ I build open-source software in my free time and occasionally blog on my experie
 
 Read more [here][website]
 
----
+## Get in touch
+
+[<img align="left" alt="Website" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gatsby.svg" />][website]
+[<img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />][linkedin]
 
 [website]: https://ryounus.dev/
 [twitter]: https://twitter.com/rahmancodes
