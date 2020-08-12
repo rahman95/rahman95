@@ -1,8 +1,12 @@
 # Rahman Younus - *@rahman95*
 
-I am a **passionate developer** with numerous years of experience. I love creating *rich and bespoke digital experiences* on the internet. 🏋🏽‍♂️👷🏽‍♂️👨🏽‍💻
+I am a **passionate engineer** with numerous years of experience. I love creating *rich and bespoke digital experiences* on the internet. 🏋🏽‍♂️👷🏽‍♂️👨🏽‍💻
 
 I build *open-source* software in my free time and *occasionally blog on my experiences* in tech. 🔥🚀
+
+```
+npx rahman95
+```
 
 ## About Me
 
