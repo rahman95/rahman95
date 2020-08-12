@@ -9,7 +9,11 @@ I build *open-source* software in my free time and *occasionally blog on my expe
 - 💼 Full-Stack Software Engineer at **DAZN**
 - 🎓 CS Graduate
 - 🇩🇪 Born in Germany
-- ✨ Actively tinkering with **GoLang** and **AWS**
+- ✨ Currently tinkering with **GoLang** and **AWS**
+- 📸 Amateur Photographer
+- 🍔 Connoisseur of good food
+- ☕️ Coffee Enthusiast
+- 🚵🏽‍♂️ Outdoorsman
 
 ## Latest Blog Posts
 
