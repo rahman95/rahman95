@@ -4,6 +4,8 @@ I am a **passionate engineer** with numerous years of experience. I love creatin
 
 I build *open-source* software in my free time and *occasionally blog on my experiences* in tech. 🔥🚀
 
+--- 
+*Run to see basic version in CLI* 💻
 ```
 npx rahman95
 ```
