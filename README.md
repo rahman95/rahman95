@@ -1,15 +1,15 @@
-# Rahman Younus - @rahman95
+# Rahman Younus - *@rahman95*
 
-I am a passionate developer with numerous years of experience. I love creating rich and bespoke digital experiences on the internet. 🏋🏽‍♂️👷🏽‍♂️👨🏽‍💻
+I am a **passionate developer** with numerous years of experience. I love creating *rich and bespoke digital experiences* on the internet. 🏋🏽‍♂️👷🏽‍♂️👨🏽‍💻
 
-I build open-source software in my free time and occasionally blog on my experiences in tech. 🔥🚀
+I build *open-source* software in my free time and *occasionally blog on my experiences* in tech. 🔥🚀
 
-## About me
+## About Me
 
-- 💼 Full-Stack Software Engineer at DAZN
+- 💼 Full-Stack Software Engineer at **DAZN**
 - 🎓 CS Graduate
 - 🇩🇪 Born in Germany
-- ✨ Actively tinkering with Go and AWS
+- ✨ Actively tinkering with **GoLang** and **AWS**
 
 ## Latest Blog Posts
 
@@ -17,7 +17,7 @@ I build open-source software in my free time and occasionally blog on my experie
 - [🌗 Adding dark mode support with a one line change](https://ryounus.dev/blog/adding-dark-mode-support-with-a-one-line-change/)
 - [👨🏽‍💻 How redundancy led me to a better job](https://ryounus.dev/blog/how-redundancy-led-me-to-a-better-job/) 
 
-Read more posts on my [Blog][blog]...
+*Read more posts on my [Blog][blog]...*
 
 ## Get in touch
 
