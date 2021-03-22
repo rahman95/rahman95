@@ -26,7 +26,7 @@ npx rahman95
 - [🤞🎉 2020 In Review & Plans for 2021](https://ryounus.dev/blog/2020-in-review-and-plans-for-2021/)
 - [🧠🏋️‍♀️ Staying sane in quarantine](https://ryounus.dev/blog/staying-sane-in-quarantine/)
 - [🌗👨🏽‍💻 Adding dark mode support with a one line change](https://ryounus.dev/blog/adding-dark-mode-support-with-a-one-line-change/)
-- [👨🏽‍💻 How redundancy led me to a better job](https://ryounus.dev/blog/how-redundancy-led-me-to-a-better-job/) 
+- [👨🏽‍💻💼  How redundancy led me to a better job](https://ryounus.dev/blog/how-redundancy-led-me-to-a-better-job/) 
 
 *Read more posts on my [Blog][blog]...*
 
