@@ -21,11 +21,12 @@ npx rahman95
 - ☕️ Coffee Enthusiast
 - 🚵🏽‍♂️ Outdoorsman
 
-## Latest Blog Posts
-
-- [🧠 Staying sane in quarantine](https://ryounus.dev/blog/staying-sane-in-quarantine/)
-- [🌗 Adding dark mode support with a one line change](https://ryounus.dev/blog/adding-dark-mode-support-with-a-one-line-change/)
-- [👨🏽‍💻 How redundancy led me to a better job](https://ryounus.dev/blog/how-redundancy-led-me-to-a-better-job/) 
+## My 5 Latest Blog Posts
+- [🎙🎩 Showcase #1 - Visualise your life with this cool handy tool](https://ryounus.dev/blog/showcase-1-visualise-your-life/)
+- [🤞🎉 2020 In Review & Plans for 2021](https://ryounus.dev/blog/2020-in-review-and-plans-for-2021/)
+- [🧠🏋️‍♀️ Staying sane in quarantine](https://ryounus.dev/blog/staying-sane-in-quarantine/)
+- [🌗👨🏽‍💻 Adding dark mode support with a one line change](https://ryounus.dev/blog/adding-dark-mode-support-with-a-one-line-change/)
+- [👨🏽‍💻💼  How redundancy led me to a better job](https://ryounus.dev/blog/how-redundancy-led-me-to-a-better-job/) 
 
 *Read more posts on my [Blog][blog]...*
 
