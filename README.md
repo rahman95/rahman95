@@ -12,7 +12,7 @@ npx rahman95
 
 ## About Me
 
-- 💼 Full-Stack Software Engineer at **DAZN**
+- 💼 Senior Software Engineer at **Sky**
 - 🎓 CS Graduate
 - 🇩🇪 Born in Germany
 - ✨ Currently tinkering with **GoLang** and **AWS**
